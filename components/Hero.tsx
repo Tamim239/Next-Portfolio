@@ -51,15 +51,14 @@ const Hero = () => {
            *
            *  change md:text-6xl, add more responsive code
            */}
-          <TextGenerateEffect
-            words="Transforming Concepts into Seamless User Experiences"
-            className="text-center text-[40px] md:text-5xl lg:text-6xl"
-          />
-
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Adrian, a Next.js Developer based in Croatia.
+          <p className="text-center text-[40px] md:text-5xl lg:text-6xl">
+            Hi! I&apos;m Md Ibrahim Islam Tamim, a MERN Developer based in
+            Bangladesh.
           </p>
-
+          <TextGenerateEffect
+            words="a passionate frontend developer with expertise in HTML, CSS, Tailwind CSS, JavaScript, React JS, Firebase, and backend technologies like MongoDB, Express JS, and Node JS. I’m currently pursuing a degree in Accounting at Rangpur Carmichael College while expanding my skills in web development."
+            className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl"
+          />
           <a href="#about">
             <MagicButton
               title="Show my work"
